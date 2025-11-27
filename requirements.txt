@@ -1,0 +1,5 @@
+streamlit
+pydub
+PyPDF2
+openai>=1.0.0
+ffmpeg-python
